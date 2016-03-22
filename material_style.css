@@ -1,0 +1,29 @@
+body {
+  background: #fafafa;
+}
+
+.cinza {
+    min-height: 50px;
+    background: #eee;
+}
+
+.mdl-layout__content .mdl-grid {
+  min-height: 320px;
+  color: #757575;
+}
+
+.md-18 {font-size: 18px;}
+.md-24 {font-size: 24px;}
+.md-36 {font-size: 36px;}
+.md-48 {font-size: 48px;}
+
+.laranja {color: #fb8c00;}
+.verde-android {color: #a4c639;}
+
+.mdl-layout__header-row .mdl-navigation__link {
+  line-height: 30px;
+}
+
+.mdl-navigation__link[data-badge]:after{
+  right: 0px;
+}
